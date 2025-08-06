@@ -1,4 +1,4 @@
-# CryptoTrackr
+# Crypto Website
 
 Your Gateway to Cryptocurrency Insights.
 
@@ -6,7 +6,7 @@ CryptoTrackr is a web application built with React, Vite, and Tailwind CSS that 
 
 ## 🚀 Live Demo
 
-Check out the live project here: [CryptoTrackr](https://cryptotrackrr.netlify.app/)
+Check out the live project here: [CryptoMania](crypto-mania-black.vercel.app)
 
 ## Features
 
@@ -82,3 +82,4 @@ Check out the live project here: [CryptoTrackr](https://cryptotrackrr.netlify.ap
 ## API Usage
 
 This project relies heavily on the free tier of the CoinGecko API. Please be mindful of their rate limits (typically 10-30 calls per minute per IP). Excessive refreshing or navigation may lead to temporary API request failures. 
+
